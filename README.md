@@ -96,6 +96,20 @@ Terminando con la configuración del sitio
 
 ![image](https://github.com/SalazarJDSJ/Proyecto-Final-SO2/assets/154374679/d57bc6cb-bea9-41c7-805f-03beb40ca8bb)
 
+## CREACION DE PAGINA 
+
+![Imagen de WhatsApp 2023-12-20 a las 11 30 51_02397771](https://github.com/SalazarJDSJ/Proyecto-Final-SO2/assets/154374679/1495054e-5a7f-4940-831b-e57b724e8292)
+
+![Imagen de WhatsApp 2023-12-20 a las 11 30 51_0794ccfc](https://github.com/SalazarJDSJ/Proyecto-Final-SO2/assets/154374679/dbd3ba1f-3f98-402f-a245-2fa1f95015a8)
+
+![Imagen de WhatsApp 2023-12-20 a las 11 30 52_2d79ad70](https://github.com/SalazarJDSJ/Proyecto-Final-SO2/assets/154374679/0b7d9635-b547-4452-aab1-3aed49bf8cdb)
+
+![Imagen de WhatsApp 2023-12-20 a las 11 30 52_61ec34a2](https://github.com/SalazarJDSJ/Proyecto-Final-SO2/assets/154374679/4cd45f6f-3b02-4554-8a8d-b4bb30a537b7)
+
+
+
+
+
 ### Videos de instalacion de drupal
 https://youtu.be/ZDDXlolhw9Q?si=37Fgt1erkhwDyvr6
 ### Video de instalacion de Apache 2 , MySQL , PHP
